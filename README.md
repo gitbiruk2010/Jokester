@@ -40,12 +40,12 @@ What "Jokester" Does
     Music: There's a background tune for extra fun, with a button to turn it off or on.
     Cool Title: The title changes color every time you get a new joke, making the app lively.
 
-Challenges We Faced
+Challenges I Faced
 
     Playing Music: Getting the music to play right away was tricky because of rules in web browsers. 
-    We added a button so you can choose to play or stop the music.
-    Choosing the Right Music File: We first used a music file that didn't work in all browsers. We switched it to a more common type, .mp3.
-    Handling Different Jokes: We made sure the app can show all kinds of jokes nicely, even if there's a problem getting them.
+    I added a button so you can choose to play or stop the music.
+    Choosing the Right Music File: I first used a music file that didn't work in all browsers. We switched it to a more common type, .mp3.
+    Handling Different Jokes: I made sure the app can show all kinds of jokes nicely, even if there's a problem getting them.
 
 How It Works
 
