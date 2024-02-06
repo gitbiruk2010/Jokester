@@ -1,4 +1,6 @@
 # Jokester
+![image](https://github.com/gitbiruk2010/Jokester/assets/103274295/3c2af304-79b1-4eb5-b6e5-e9505dc69d06)
+
 Jokester Application Documentation
 Overview
 
